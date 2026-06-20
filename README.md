@@ -7,7 +7,8 @@
 Software Engineering student at VKU (2023 – 2028).  
 Full-Stack Developer based in Da Nang, Vietnam.
 
-📧 nrin31266@gmail.com
+📧 nrin31266@gmail.com  
+📞 0963 240 659
 
 ---
 
@@ -30,13 +31,6 @@ Full-Stack Developer based in Da Nang, Vietnam.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nrin31266&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrin31266&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9FF" />
 </p>
-
----
-
-### 📫 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nrin31266)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nrin31266@gmail.com)
 
 ---
 
