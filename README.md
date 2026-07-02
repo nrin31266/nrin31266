@@ -2,56 +2,54 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;Backend+and+Microservices+Enthusiast" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:0D1117,100:00C9FF&text=Nguyen%20Van%20Rin&fontColor=FFFFFF&fontSize=38&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16" alt="Nguyen Van Rin Banner" />
 
 </div>
 
----
-
 ## 🎓 About Me
 
-I'm a **Software Engineering student at VKU** based in **Da Nang, Vietnam**.
+I'm a **Software Engineering student at Vietnam-Korea University of Information and Communication Technology (VKU)**, based in **Da Nang, Vietnam**.
 
-I enjoy building practical web applications, especially systems related to **backend development, full-stack development, microservices, authentication, databases, and real-time communication**.
+I am interested in **backend development** and **full-stack web development**. I enjoy building practical web applications, working with REST APIs, databases, authentication, and learning how real software systems are designed and maintained.
 
-* 🎓 Student at **Vietnam-Korea University of Information and Communication Technology**
-* 💻 Interested in **Full-Stack Development** and **Backend Engineering**
-* 🚀 Currently improving my skills in **Spring Boot, React, Docker, Kafka, Redis, and Keycloak**
-* 📫 Email: **[nrin31266@gmail.com](mailto:nrin31266@gmail.com)**
-* 📞 Phone: **0963 240 659**
+- 🎓 Software Engineering student at **VKU**
+- 💻 Interested in **Full-Stack Development** and **Backend Engineering**
+- 🌱 Currently improving my skills in **Spring Boot, React, Docker, Redis, Kafka, and system design**
+- 📫 Email: **nrin31266@gmail.com**
+- 🔗 GitHub: **github.com/nrin31266**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,html,css" alt="Languages" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Frontend Skills" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,maven" />
+  <img src="https://skillicons.dev/icons?i=spring,maven" alt="Backend Skills" />
 </p>
 
 ### Database & Cache
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Database and Cache Skills" />
 </p>
 
-### Infrastructure & Tools
+### Tools & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kafka,git,github,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kafka,git,github,postman,linux" alt="Tools and Infrastructure" />
 </p>
 
 ---
@@ -60,29 +58,26 @@ I enjoy building practical web applications, especially systems related to **bac
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nrin31266&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF&icon_color=00C9FF" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrin31266&theme=github_dark" alt="GitHub Profile Summary" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrin31266&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF" />
+<br/>
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nrin31266&theme=github_dark" alt="Repos Per Language" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nrin31266&theme=github_dark" alt="Most Commit Language" />
 
 </div>
 
 ---
 
-## 🚀 Featured Focus
+## 🌐 Languages
 
-```txt
-Backend Development
-Full-Stack Web Applications
-Microservices Architecture
-Authentication & Authorization
-Database Design
-Real-time Systems
-```
+- Vietnamese: Native
+- English: Intermediate, technical reading and basic workplace communication
 
 ---
 
 <div align="center">
 
-### Code. Learn. Build.
+<i>Code. Learn. Build.</i>
 
 </div>
