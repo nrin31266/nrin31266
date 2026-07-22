@@ -26,21 +26,6 @@ I build web applications and enjoy working across both frontend and backend.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrin31266&theme=github_dark" alt="GitHub Profile Summary" />
-
-<br/>
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nrin31266&theme=github_dark" alt="Repos Per Language" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nrin31266&theme=github_dark" alt="Most Commit Language" />
-
-</div>
-
----
-
 <div align="center">
 
 <i>Code. Learn. Build.</i>
