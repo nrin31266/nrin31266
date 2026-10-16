@@ -1,3 +1,5 @@
+<!-- Last reviewed: 2026-10-17 -->
+
 <h1 align="center">Nguyen Van Rin</h1>
 
 <p align="center">
@@ -53,7 +55,7 @@
 ## Workflow
 
 <p>
-  <img src="https://img.shields.io/badge/Plan_→_Verify-24292F?style=for-the-badge&logo=git&logoColor=F05032" alt="Plan then Verify" />
+  <img src="https://img.shields.io/badge/Plan_%26_Verify-24292F?style=for-the-badge&logo=git&logoColor=F05032" alt="Plan and Verify" />
   <img src="https://img.shields.io/badge/TDD-24292F?style=for-the-badge&logo=vitest&logoColor=6E9F18" alt="TDD" />
   <img src="https://img.shields.io/badge/Git_Worktrees-24292F?style=for-the-badge&logo=git&logoColor=F05032" alt="Git Worktrees" />
   <img src="https://img.shields.io/badge/PR_Review-24292F?style=for-the-badge&logo=github&logoColor=white" alt="PR Review" />
@@ -65,4 +67,7 @@
 
 ---
 
-<p align="center"><i>Code. Learn. Build.</i></p>
+<p align="center">
+  <i>Code. Learn. Build.</i><br/>
+  <sub>Last updated: 2026-10-17</sub>
+</p>
