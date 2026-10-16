@@ -1,72 +1,66 @@
 <h1 align="center">Nguyen Van Rin</h1>
 
 <p align="center">
-  Full-stack developer who builds web applications end to end, from UI to backend services.<br/>
-  I work with AI agents and spec-driven workflows to ship faster with cleaner code and better docs.<br/>
+  Full-stack developer building web, mobile, and backend systems end to end.<br/>
+  I work with AI agents through specs, skills, and conventions kept in the repo, so output stays consistent and reviewable.<br/>
   Always learning, always building.
 </p>
 
 ---
 
-## AI Tools & Agents
+## AI Agents
 
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
-  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 </p>
 
-## Agent Capabilities
+## Agent Context
 
 <p>
-  <img src="https://img.shields.io/badge/Plan_Mode-24292F?style=for-the-badge&logo=anthropic&logoColor=white" alt="Plan Mode" />
+  <img src="https://img.shields.io/badge/AGENTS.md-24292F?style=for-the-badge&logo=markdown&logoColor=white" alt="AGENTS.md" />
+  <img src="https://img.shields.io/badge/Agent_Skills-24292F?style=for-the-badge&logo=anthropic&logoColor=white" alt="Agent Skills" />
+  <img src="https://img.shields.io/badge/Skills_Lock-24292F?style=for-the-badge&logo=npm&logoColor=CB3837" alt="Skills Lock" />
   <img src="https://img.shields.io/badge/Sub--Agents-24292F?style=for-the-badge&logo=anthropic&logoColor=white" alt="Sub-Agents" />
-  <img src="https://img.shields.io/badge/Hooks-24292F?style=for-the-badge&logo=git&logoColor=F05032" alt="Hooks" />
-  <img src="https://img.shields.io/badge/Slash_Commands-24292F?style=for-the-badge&logo=anthropic&logoColor=white" alt="Slash Commands" />
-  <img src="https://img.shields.io/badge/Git_Worktrees-24292F?style=for-the-badge&logo=git&logoColor=F05032" alt="Git Worktrees" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-24292F?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Agent_Memory-24292F?style=for-the-badge&logo=obsidian&logoColor=7C3AED" alt="Agent Memory" />
+  <img src="https://img.shields.io/badge/MCP-24292F?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
 </p>
 
-## Protocols & Standards
+## Specs & Docs
 
 <p>
-  <img src="https://img.shields.io/badge/MCP_Model_Context_Protocol-24292F?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/Agent_Skills_SKILL.md-24292F?style=for-the-badge&logo=anthropic&logoColor=white" alt="Agent Skills" />
-  <img src="https://img.shields.io/badge/AGENTS.md_CLAUDE.md-24292F?style=for-the-badge&logo=markdown&logoColor=white" alt="AGENTS.md" />
-  <img src="https://img.shields.io/badge/OpenAPI_Swagger-24292F?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="OpenAPI" />
-  <img src="https://img.shields.io/badge/Conventional_Commits-24292F?style=for-the-badge&logo=conventionalcommits&logoColor=FE5196" alt="Conventional Commits" />
-</p>
-
-## MCP Servers
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub_MCP-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub MCP" />
-  <img src="https://img.shields.io/badge/Playwright_MCP-24292F?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright MCP" />
-  <img src="https://img.shields.io/badge/Figma_MCP-24292F?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma MCP" />
-  <img src="https://img.shields.io/badge/Postman_MCP-24292F?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman MCP" />
-  <img src="https://img.shields.io/badge/Context7_Docs-24292F?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Context7" />
-</p>
-
-## Docs & Design
-
-<p>
+  <img src="https://img.shields.io/badge/Spec_First-24292F?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Spec First" />
   <img src="https://img.shields.io/badge/Docs_as_Code-24292F?style=for-the-badge&logo=markdown&logoColor=white" alt="Docs as Code" />
-  <img src="https://img.shields.io/badge/ADR_Decision_Records-24292F?style=for-the-badge&logo=markdown&logoColor=white" alt="ADR" />
-  <img src="https://img.shields.io/badge/Figma_UI_Design-24292F?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-  <img src="https://img.shields.io/badge/Mermaid_Diagrams-24292F?style=for-the-badge&logo=mermaid&logoColor=FF3670" alt="Mermaid" />
-  <img src="https://img.shields.io/badge/Notion_Specs-24292F?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/PRD-24292F?style=for-the-badge&logo=gitbook&logoColor=white" alt="PRD" />
+  <img src="https://img.shields.io/badge/ADR-24292F?style=for-the-badge&logo=gitbook&logoColor=white" alt="ADR" />
+  <img src="https://img.shields.io/badge/OpenAPI-24292F?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="OpenAPI" />
+  <img src="https://img.shields.io/badge/Mermaid-24292F?style=for-the-badge&logo=mermaid&logoColor=FF3670" alt="Mermaid" />
+  <img src="https://img.shields.io/badge/Figma-24292F?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
 </p>
 
-## Quality & Delivery
+## Protocols
 
 <p>
-  <img src="https://img.shields.io/badge/Clean_Architecture-24292F?style=for-the-badge&logo=git&logoColor=F05032" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/JUnit_Vitest-24292F?style=for-the-badge&logo=vitest&logoColor=6E9F18" alt="Testing" />
-  <img src="https://img.shields.io/badge/ESLint_Prettier-24292F?style=for-the-badge&logo=eslint&logoColor=4B32C3" alt="Lint & Format" />
-  <img src="https://img.shields.io/badge/GitHub_Actions_CI%2FCD-24292F?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker_Container-24292F?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/OIDC-24292F?style=for-the-badge&logo=openid&logoColor=F78C40" alt="OIDC" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-24292F?style=for-the-badge&logo=auth0&logoColor=EB5424" alt="OAuth 2.0" />
+  <img src="https://img.shields.io/badge/JWT-24292F?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/W3C_Trace_Context-24292F?style=for-the-badge&logo=w3c&logoColor=005A9C" alt="W3C Trace Context" />
+  <img src="https://img.shields.io/badge/WebSocket-24292F?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
+</p>
+
+## Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Plan_→_Verify-24292F?style=for-the-badge&logo=git&logoColor=F05032" alt="Plan then Verify" />
+  <img src="https://img.shields.io/badge/TDD-24292F?style=for-the-badge&logo=vitest&logoColor=6E9F18" alt="TDD" />
+  <img src="https://img.shields.io/badge/Git_Worktrees-24292F?style=for-the-badge&logo=git&logoColor=F05032" alt="Git Worktrees" />
+  <img src="https://img.shields.io/badge/PR_Review-24292F?style=for-the-badge&logo=github&logoColor=white" alt="PR Review" />
+  <img src="https://img.shields.io/badge/Conventional_Commits-24292F?style=for-the-badge&logo=conventionalcommits&logoColor=FE5196" alt="Conventional Commits" />
+  <img src="https://img.shields.io/badge/Husky-24292F?style=for-the-badge&logo=git&logoColor=white" alt="Husky" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-24292F?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-24292F?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
 </p>
 
 ---
